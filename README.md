@@ -1,6 +1,9 @@
 # RailsAPINewrelic
 
-TODO: Write a gem description
+This gem fixes New Relic reporting from
+[rails-api](https://github.com/rails-api/rails-api) applications.  See
+[rails-api#34](https://github.com/rails-api/rails-api/issues/34) for a
+description of the problem.
 
 ## Installation
 
