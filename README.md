@@ -1,4 +1,4 @@
-# RailsAPINewrelic
+# RailsAPINewrelic (Rails 3 and 4)
 
 This gem fixes New Relic reporting from
 [rails-api](https://github.com/rails-api/rails-api) applications.  See
